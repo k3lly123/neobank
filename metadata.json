@@ -1,0 +1,7 @@
+{
+  "name": "Apex Digital Bank",
+  "description": "Institutional Treasury, Automated FedNow Transfers, Virtual Fleet Issuance, and Real-Time Cryptographic Ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
